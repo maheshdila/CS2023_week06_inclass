@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week_06/inclass_omalya/cmake-build-debug/CMakeFiles/inclass_omalya.dir
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week_06/inclass_omalya/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week_06/inclass_omalya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
